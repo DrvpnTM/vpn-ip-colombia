@@ -1,18 +1,17 @@
-# VPN IP Colombia — Dr VPN
+# VPN IP Colombia — Fast, Secure VPN for Colombia
 
-**VPN IP Colombia** is a fast, secure and free VPN for Android. Get a **Colombia IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Colombia** is a free, open-source, ad-free VPN app for Android, built for users in Colombia. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Colombia (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_co_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-colombia/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Colombia IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Colombia, Colombia VPN, VPN IP Colombia, Colombia IP address, free VPN Colombia, buy VPN Colombia, fast VPN Colombia, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Colombia, free VPN Colombia, fast VPN, VPN IP Colombia, Android VPN, unblock websites Colombia.</sub>
